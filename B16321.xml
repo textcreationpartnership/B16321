@@ -1,0 +1,887 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The ready vvay to trve repentance: or, A Godly, and learned treatise, of the repentance of Mary Magdalen: opened in diuers sermons at the first; begun in little Alhallowes vpon the Wall, London, the 21. day of Septemb. 1616. and continued in S. Peters Church in Sandwich; contayning doctrine of faith. / By Harim White ... ; Whereunto also, by request, are added certaine other sermons, preached by the same author, vpon diuers occasions, in his priuate cure.</title>
+            <author>White, Harim, d. 1627.</author>
+         </titleStmt>
+         <extent>Approx. 82KB of XML-encoded text transcribed from 36 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B16321</idno><idno type="EEBO-CITATION">48492762</idno>
+  <idno type="VID">178215</idno>
+  <idno type="EEBO-PROQUEST">2240927612</idno>
+  <idno type="STC">STC 25387</idno>
+  <idno type="STC">ESTC S100638</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B16321)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 178215)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1499:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The ready vvay to trve repentance: or, A Godly, and learned treatise, of the repentance of Mary Magdalen: opened in diuers sermons at the first; begun in little Alhallowes vpon the Wall, London, the 21. day of Septemb. 1616. and continued in S. Peters Church in Sandwich; contayning doctrine of faith. / By Harim White ... ; Whereunto also, by request, are added certaine other sermons, preached by the same author, vpon diuers occasions, in his priuate cure.</title>
+                  <author>White, Harim, d. 1627.</author>
+               </titleStmt>
+               <extent>[10], 60 p.   </extent>
+               <publicationStmt>
+                  <publisher>by G.E. for T.B.,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1618.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Mary Magdalene, --  Saint --  Sermons.</term>
+               <term type="topical_term">Repentance --  Early works to 1800.</term>
+               <term type="topical_term">Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:178215:1"/>
+            <pb facs="tcp:178215:1"/>
+            <p>THE READY VVAY TO TRVE REPENTANCE:</p>
+            <p>
+               <hi>OR</hi> A Godly, and Learned Treatise, of the <hi>Repentance</hi> of <hi>Mary Magdalen:</hi> opened in diuers Sermons at the first; begun in <hi>little Alhallowes vpon the Wall, London,</hi> the 21. day of <hi>Septemb.</hi> 1616. and continued in S. <hi>Peters Church</hi> in <hi>Sandwich;</hi> contayning <hi>Doctrine of</hi> FAITH.</p>
+            <p>By HARIM WHITE <hi>Bachelor of Diuinity,</hi> and Chaplyn to his most <hi>Excellent Maiesty.</hi>
+            </p>
+            <p>
+               <hi>Whereunto also, by request, are added cer<g ref="char:EOLhyphen"/>taine other Sermons, preached by the same Au<g ref="char:EOLhyphen"/>thor, vpon diuers occasions, in his priuate Cure.</hi>
+            </p>
+            <q>
+               <bibl>Ephes. 3. 4.</bibl> Whereby, when ye read, ye may know mine vnder<g ref="char:EOLhyphen"/>standing in the mystery of Christ.</q>
+            <q>
+               <bibl>CYR Lib. 7. Cap. 1. in IOHAN.</bibl> Nec Sapientia, nec obseruatio l<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gis, nec bona vita quic<g ref="char:EOLhyphen"/>quam valet, nisi per eum, per quem solum, datur adi<g ref="char:EOLhyphen"/>tus, et accessus in salutem.</q>
+            <p>Printed at London by <hi>G. E.</hi> for <hi>T. B.</hi> 1618.</p>
+         </div>
+         <div type="modern_bookplate">
+            <pb facs="tcp:178215:2"/>
+            <p>
+               <figure>
+                  <figDesc>bookplate of the University of Cambridge</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:178215:2"/>
+            <head>TO THE RIGHT Vertuous, Graue, Wise, <hi>and Religious Gentlewoman,</hi> M<seg rend="sup">ris</seg>. <hi>Dorothey Dalby,</hi> Widow, <hi>his deare and naturall Mother:</hi> HARIM WHITE, her dutifull <hi>and onely Sonne, wisheth, in</hi> this life prosperity; and in that which is to come, <hi>eternall felicity.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>Hings deferred, and long in expectation, afford the more ioy in the fruition. You haue (I acknowledge
+<pb facs="tcp:178215:3"/> most deare and louing Mother) hi<g ref="char:EOLhyphen"/>therto reaped nothing at all, for all that you haue so largely and long since sowne: but haue with the wise Hus<g ref="char:EOLhyphen"/>bandman, still patiently waited for the fruitfull time of Haruest.</p>
+            <p>Now therefore, in some measure to comfort you, (though at the last) as our Sauiour willeth his Disciples, so doe I you, <hi>To lift vp your eyes, for now the Regions are already</hi> Albae <hi>white, euen to the Haruest. Ioh. 4. 35.</hi> And although they bee not all <hi>Siccae,</hi> dry, and throughly ripe at once▪ yet let our small beginning bee acceptable, and encourage you with hope of the rest in due time. All Graines are not ripe together, but euery kinde hath it owne proper, and
+<pb facs="tcp:178215:3"/> fit season. Heere first we beginne with <hi>Faith,</hi> and purpose (God blessing vs) to goe on with <hi>Hope,</hi> and end with <hi>Loue,</hi> which threefold Cable shall neuer bee broken. I could finde none in right (amongst the ma<g ref="char:EOLhyphen"/>ny more fit then your selfe, to whose care and protection I might commit this shiftlesse and helplesse Orphan: it beeing originally, and properly your own Issue. If there<g ref="char:EOLhyphen"/>fore you shall bee pleased with these my first fruites, and fauourably in<g ref="char:EOLhyphen"/>terpret these my first endeauours: you shall thereby encourage mee to tender to your view, workes of grea<g ref="char:EOLhyphen"/>ter importance heereafter. And in the <hi>interim</hi> (as duty bindeth mee) I will not cease to solicite God by
+<pb facs="tcp:178215:4"/> prayer for your continuall prosperity; and that when hee shall please to take you from this earthly mansion, you may ascend into the euerlasting habitation of glorie. And thus in all filiall obsequy I humbly take my leaue this third of Ian. 1617.</p>
+            <closer>
+               <signed>Your euer obedient, louing Sonne. HARIM WHITE.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:178215:4"/>
+            <head>To the Religious, and well af<g ref="char:EOLhyphen"/>fected Reader.</head>
+            <p>
+               <seg rend="decorInit">S</seg>Eeing the World, at this day, so generally transpor<g ref="char:EOLhyphen"/>ted, with such dangerous, and strange Doctrines; and that all men (almost) hunting after nouelties, doe so eagerly desire that which is pestilent and noy<g ref="char:EOLhyphen"/>some; in the meane while loathing and reiecting, that which is wholsome and good. It therefore beseemeth all men, (that render the glory of God) but spe<g ref="char:EOLhyphen"/>cially
+<pb facs="tcp:178215:5"/> the Ministers of his word, dili<g ref="char:EOLhyphen"/>gently to shew to the people, the true difference betweene <hi>verum,</hi> and <hi>appa<g ref="char:EOLhyphen"/>rens bonum,</hi> that is, between<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that which is good indeed, and that which seemeth to be so▪ especially in all great and fun<g ref="char:EOLhyphen"/>damentall poynts of Saluation. To which purpose, I haue diuulged this little Treatise, which in it owne parti<g ref="char:EOLhyphen"/>cular, shall (I doubt not) but performe this Office, to which end it is sent: and be as a defensatiue in health against the day of sicknesse, and as a preseruatiue in life, against the day of death. Wher<g ref="char:EOLhyphen"/>in I soare not with the towring Eagle, into the clouds, neither deale I with Questions of difficulty, (which respect the learned and great wits; let such as list climbe into the third Heauen, and shew from thence high misteries, and vnheard of Reuelations) but casting my selfe vpon the ground, with all humili<g ref="char:EOLhyphen"/>ty, I study to informe the meanest of
+<pb facs="tcp:178215:5"/> Gods children (after a plaine and easie manner) in those things, which necessa<g ref="char:EOLhyphen"/>rily appertaine to their eternall happi<g ref="char:EOLhyphen"/>nesse. And amongst the many behoofe<g ref="char:EOLhyphen"/>full points of Christian Religion, I find none at this day, more necessary to bee taught and embraced, then this of <hi>Faith</hi> and true <hi>Repentance;</hi> seeing that fancy is generally reputed Faith, and conceit Conscience, and that Hypocrisie wal<g ref="char:EOLhyphen"/>keth in equall compare with Piety. I had no purpose at the first preaching heereof, to haue committed the same to Print, neither did I euer value it worth the Presse or publike view: only conten<g ref="char:EOLhyphen"/>ting my selfe with the discharge of my duty, and edification of my priuate flocke. But being ouer-ruled heerein, by the importunate intreaty of some of my hearers, and louing friends, I could not denie their request, seeing it inten<g ref="char:EOLhyphen"/>ded the publike good. Vse it therefore Godly Reader, and meditate therein for
+<pb facs="tcp:178215:6"/> thy comfort: If thou reapest any profit thereby, giue God the praise, and thou hast sufficiently rewarded my paines. Farewell.</p>
+            <closer>
+               <dateline>From my Parsonage house, of S. <hi>Peters</hi> in Sandwich in Kent, <date>this 3. of Ian. 1617.</date>
+               </dateline>
+               <signed>Thy vnfaigned Louer in <hi>Christ Iesus.</hi> HARIM WHITE.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:178215:6"/>
+            <head>THE READY WAY <hi>to true Repentance.</hi> OR A learned, profitable, and com<g ref="char:EOLhyphen"/>fortable Discourse of the Faith, and Repentance of MARY MAGDALEN, <hi>fit for the time, and</hi> profitable for all that loue the Lord in sincerity.</head>
+            <epigraph>
+               <bibl>LVKE 7. 47.</bibl>
+               <q>Many Sinnes are forgiuen her, for she loued much.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>His Parcell of Scripture, is the conclusion of the notable Sto<g ref="char:EOLhyphen"/>ry of <hi>Mary Magdalen,</hi> and her Repentance, with the cir<g ref="char:EOLhyphen"/>cumstances, and occurrences thervnto belonging. A Doctrine and practise indeed, of vs too much neglected: but as we
+<pb n="2" facs="tcp:178215:7"/> see heere, by the Holy Ghost, &amp; holy Church carefully registred, and by <hi>Mary Magdalen</hi> to the full performed. The sequell whereof is no lesse then <hi>Remissio peccatorum,</hi> the remssi<g ref="char:EOLhyphen"/>on of Sinnes.</p>
+            <list>
+               <item>1. By Faith obtained.</item>
+               <item>2. By loue expressed.</item>
+            </list>
+            <div type="part">
+               <head>Many sinnes are forgiuen her, for she loued much.</head>
+               <p>THe most memorable and admirable ex<g ref="char:EOLhyphen"/>ample of true Repentance is now deli<g ref="char:EOLhyphen"/>uered.</p>
+               <list>
+                  <item>A sinfull woman reclaimed.</item>
+                  <item>A grounded Sinner repentant.</item>
+               </list>
+               <p>She was the very filth of sinne, <hi>Sentina ma<g ref="char:EOLhyphen"/>lorum,</hi> one that set her selfe to sale, <hi>Prostibu<g ref="char:EOLhyphen"/>lum inter gentes;</hi> an insatiable Woman, <hi>Qu<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> prostituit se omnibus,</hi> hauing her Chastity at command for money, the by-word of the people, one pointed at, the very scumme and scoffe of the world, it should seeme a sinne<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> aboue measure, and such a one was <hi>Mary Magdalen.</hi>
+               </p>
+               <lg>
+                  <l>But behold the lost Groat is found,</l>
+                  <l>The Strayed sheepe is sought vp,</l>
+                  <l>The Prodigall Child is returned,</l>
+                  <pb n="3" facs="tcp:178215:7"/>
+                  <l>The Thiefe is conuerted,</l>
+                  <l>
+                     <hi>Peter</hi> hath bitterly wept,</l>
+                  <l>And <hi>Mary Magdalen</hi> hath truely repen<g ref="char:EOLhyphen"/>ted.</l>
+               </lg>
+               <p>The Kingdome of Heauen it seemes now suffers violence. <hi>Math. 11. 12.</hi> and whores and theeues enter in before you. <hi>Mat. 21. 31. Facilius est enim</hi> (as one well saith) <hi>deploratis<g ref="char:EOLhyphen"/>simos peccatores, ad meliora reuocare, &amp;c.</hi> It is an easier thing to bring to <hi>Repentance</hi> the vildest sinner, then such a one as swelleth in conceit of his owne Righteousnes.</p>
+               <p>They that be whole need not the Phisiti<g ref="char:EOLhyphen"/>on, but they that be sicke: Hee came not to call the righteous but sinners to repentance. <hi>Luke 5. 32.</hi>
+               </p>
+               <p>And this <hi>Conuersion</hi> of a sinner is indeed a supernaturall worke.</p>
+               <div type="section">
+                  <p>Before we enter into the discourse of the definition of <hi>Repentance,</hi> I think it not amisse to vse some description thereof, which for de<g ref="char:EOLhyphen"/>fault (as <hi>Logicians</hi> affirme) may stand in stead of a definition.</p>
+                  <div type="subsection">
+                     <head>
+                        <hi>Poenitentia, Repentance</hi> to a sinner.</head>
+                     <p>It is the <hi>Monosherosh,</hi> or Vnicornes horne, soueraigne against poyson. It is the true <hi>Me<g ref="char:EOLhyphen"/>thridate,</hi> good in the mournefull time of Pesti<g ref="char:EOLhyphen"/>lence.
+<pb n="4" facs="tcp:178215:8"/> It is <hi>Iacobs</hi> Ladder, <hi>Scala Coeli,</hi> the Ladder of Heauen, by which all must needs ascend, that will goe thither. It is <hi>Regia via,</hi> the Kings high way, the onely beaten and trodden path, that leadeth to eternall blisse. It is the translating of <hi>Henoch,</hi> that is, of sin<g ref="char:EOLhyphen"/>full man, from naturall affections, to spirituall inclinations It is the Chariot of <hi>Elias,</hi> where<g ref="char:EOLhyphen"/>by we are carried directly vnto God. It is the Red Sea, that drownes <hi>Pharaoh</hi> and all his hoast, the spirituall <hi>Pharaoh,</hi> the Diuell, Sinne, Death and Condemnation. It is the Salt the Prophet vsed, to make sweet the bitter wa<g ref="char:EOLhyphen"/>ters of <hi>Iericho.</hi> It is the leauen that doth sea<g ref="char:EOLhyphen"/>son, and make sauory the whole lumpe vnto God. It is the wombe of the Church, where<g ref="char:EOLhyphen"/>in Sonnes and Daughters are begotten to God. It is the birth of <hi>Nicodemus,</hi> whereby we are truly regenerate. It is the true <hi>Balsum,</hi> the most precious oyle that man can vse for any wound of the soule. It is the right <hi>Apo<g ref="char:EOLhyphen"/>panax,</hi> or <hi>Panacea,</hi> soueraigne for euery dis<g ref="char:EOLhyphen"/>ease of the So<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>le, except wilfull sinne against the Holy Ghost. It is the leaues of the Tree of life, that serue to heare the people withall <hi>Reu. 22.</hi>
+                     </p>
+                     <pb n="5" facs="tcp:178215:8"/>
+                  </div>
+                  <div type="subsection">
+                     <head>Now <hi>Poenitere,</hi> to <hi>Repent,</hi> is</head>
+                     <list>
+                        <item>The charge and commandement of God.</item>
+                        <item>The counsell and exhortation of the
+<list>
+                              <item>Patriarkes,</item>
+                              <item>Prophets, and</item>
+                              <item>Apostles.</item>
+                           </list>
+                        </item>
+                        <item>The practise of the Church in all ages.</item>
+                        <item>The ioy of <hi>Heauen,</hi> and paine of <hi>Hell.</hi>
+                        </item>
+                     </list>
+                     <p>For God and his Angells reioyce at it, the Diuell and his instruments doe grieue at it.</p>
+                     <p>I cannot compare <hi>Repentance</hi> to any thing better then to the Spring.</p>
+                     <p>
+                        <hi>Ʋera poenitentia, vera veris Imago.</hi>
+                     </p>
+                     <p>True Repentance beares the true figure of a liuely spring: for as the Winter is the be<g ref="char:EOLhyphen"/>numming, scorching and killing of Hearbes, Plants, Trees, Fruites, and encrease of the earth, and is a likenes of death for the time; so is the Spring a renewing, quickning, and restoring of all things, as before.</p>
+                     <p>By this Similie then we may obserue, that as sinne by man committed, is a benumming, wounding and killing of man, and is (as a Winter) death to man: So is Repentance as the Spring renewing, quickening, and raising of that man, a liuely image of his resurrecti<g ref="char:EOLhyphen"/>on. And the Repentant thus reuiued, renued,
+<pb n="6" facs="tcp:178215:9"/> and raised againe, behold his Spring, hee putteth forth his blosomes, and bringeth forth fruites, namely workes worthy amende<g ref="char:EOLhyphen"/>ment of life.</p>
+                     <p>The Spring we see giues a state, essence, and being to things: <hi>Noua rerum species, noua re<g ref="char:EOLhyphen"/>rum facies:</hi> it reneweth the face of the whole earth▪ and so doth Repentance the whole man.</p>
+                     <p>The Yeare is diuided into foure parts, and euery quarter is <hi>Trimensis,</hi> or <hi>Trimestris,</hi> that is, consisting of three Months: So likewise is the Spring diuided into three times or Seasons. <hi>viz.</hi>
+                     </p>
+                     <list>
+                        <item>
+                           <hi>Nouum.</hi> The new Spring.</item>
+                        <item>
+                           <hi>Adultū.</hi> The growing Spring.</item>
+                        <item>
+                           <hi>Praeceps.</hi> The fading or falling Spring.</item>
+                     </list>
+                     <p>By the new Spring, we haue a new face vp<g ref="char:EOLhyphen"/>on the earth, the dead, and darke mantle is taken away, and a liuely fresh vaile is put on: So is it in the Soules▪ Spring of Repentance, there is, <hi>Noua forma, Noua creatura,</hi> A new Creature, a new man; The ragged cloake of blind <hi>Bartimeus</hi> is put off, and the rich roabe, and wedding garment of Righteousnes and Holinesse is put on.</p>
+                     <p>And thus much of the description of Re<g ref="char:EOLhyphen"/>pentance,
+<pb n="7" facs="tcp:178215:9"/> and now we come to the definiti<g ref="char:EOLhyphen"/>on thereof.</p>
+                  </div>
+                  <div type="subsection">
+                     <head>
+                        <hi>Poenitentia,</hi> Repentance is,</head>
+                     <p>The altring or changing of the former course of life: an inward sorrow and mour<g ref="char:EOLhyphen"/>ning for sinne ioyned with <hi>Faith,</hi> to obtaine remission; and amendment of life bringing forth fruits answerable to Repentance.</p>
+                     <p>Whereby wee learne that the conuer<g ref="char:EOLhyphen"/>sion of a Sinner consisteth of three parts▪ <hi>viz.</hi>
+                     </p>
+                     <list>
+                        <item>1. Of a purpose and resolution in the mind.</item>
+                        <item>2. Of an inclinatiō &amp; propension in the wil.</item>
+                        <item>3. Of an indeauour and practise in the life, to abandon former sinnes, and to walke in obedience vnto Gods commandements.</item>
+                     </list>
+                     <p>But here it may be questioned, whether Faith be a part of Repentance, or no?</p>
+                     <p>To which I answere, Repentance is a thing necessarily ioyned to <hi>Faith,</hi> but <hi>faith</hi> is no part thereof: for, if Repentance be taken (as heere we vnderstand it) for the restoring, retur<g ref="char:EOLhyphen"/>ning, and renewing of mans life: then it is cleare, that repentance is the fruit of Faith, and <hi>Faith,</hi> no part of Repentance: example hereof.</p>
+                     <p>As the body of the Sunne is one thing, and
+<pb n="8" facs="tcp:178215:10"/> the light another, distinct the one from the other, and yet the one capable of the other, so is <hi>Repentance,</hi> and <hi>Faith,</hi> distinct, and seue<g ref="char:EOLhyphen"/>rall, one from the other, and yet crauing the vse, and helpe one of another.</p>
+                     <p>
+                        <hi>Faith</hi> is the inchoation (and as it were) the mother of <hi>Repentance,</hi> and giueth light, to the man that minds to repent: for when the minde of man, begins to embrace the good<g ref="char:EOLhyphen"/>nesse of God, touching remission of sinnes, by the death of Christ; Then doth immedi<g ref="char:EOLhyphen"/>atly follow alteration, and renouation: that is, the casting away of the workes of darke<g ref="char:EOLhyphen"/>nesse, and the puting on, of the armor of light. So then we conclude, <hi>Faith,</hi> is the initiation of <hi>Repentance;</hi> and <hi>Repentance,</hi> is the consumma<g ref="char:EOLhyphen"/>tion of <hi>Faith.</hi> The essentiall parts of true <hi>Re<g ref="char:EOLhyphen"/>pentance</hi> are two, <hi>viz.</hi> 1. To cease from euill. 2 To endeuour to doe good. <hi>Psal.</hi> 34.</p>
+                     <p>We must not onely eschew euill, but wee must also doe that which is good. The com<g ref="char:EOLhyphen"/>mandement that is there Prohibitiue, is there preceptiue also: &amp; he that doth there enioine, doth there restraine also: hee that negatiuely forbiddeth what a man shall not doe, he affir<g ref="char:EOLhyphen"/>matiuely also cōmandeth what a man should doe. It is not enough for a man to shun euill,
+<pb n="9" facs="tcp:178215:10"/> but hee must also follow that which is good.</p>
+                     <p>As touching the integrity of a Christian life, it is nothing at all <hi>mouere,</hi> except we doe <hi>pro<g ref="char:EOLhyphen"/>mouere</hi> also▪ it is nothing to cast a way the workes of darknesse, except wee put on the Armour of light. <hi>Rom. 13. 12.</hi> It is nothing to mortifie the flesh, except we doe quicken the spirit. <hi>Gal. 5. 24. 26.</hi> It is nothing to renounce <hi>Adam,</hi> except we embrace Christ. <hi>Rom. 12. 2.</hi> Briefely, it is nothing to forsake vngodlines, and sinfull lusts, except we liue soberly, righte<g ref="char:EOLhyphen"/>ously, and godly, in this present world. <hi>Titus, 2. 12. Qui non proficit, Deficit:</hi> Wee must therefore begin well, and end well too; wee must add strength to strength. By this then that hath beene spoken, the causes of repen<g ref="char:EOLhyphen"/>tance, are made conspicuous, <hi>viz.</hi> 1 the for<g ref="char:EOLhyphen"/>mall is our conuersion or change: 2 The mat<g ref="char:EOLhyphen"/>ter, is the will of man resoluing: 3 The ob<g ref="char:EOLhyphen"/>iect, is our sinne, and good life: our sinne, for which wee are sorrow: our good life, which wee endeuour seriously to performe. 4 The principall efficient is God, and the adiuuant or instrumental cause is faith, God bestowing Faith, and Faith begetting Repentance. 5. The finall, is the honour, and glory of God, and the health &amp; saluation of our soules. And thus much you haue heard of Repentance.</p>
+                     <pb n="10" facs="tcp:178215:11"/>
+                     <p>1. By way of discription. 2. By way of definition. 3. By euidence of the true cau<g ref="char:EOLhyphen"/>ses thereof.</p>
+                  </div>
+               </div>
+               <div type="section">
+                  <p>Now are we come to certain circumstances, and obseruances concerning Repentance: of which in order, the circumstances are in num<g ref="char:EOLhyphen"/>ber foure <hi>viz.</hi> 1. The time, <hi>when to repent.</hi> 2. The meanes and motiues, mouing to <hi>repent.</hi> 3. The lets and hinderances, <hi>that wee cannot repent.</hi> 4. The griefe, and sorrow, wee must vndergoe, if we will truely <hi>repent;</hi> with other branches as <hi>pedisique</hi> attendants, and annex<g ref="char:EOLhyphen"/>ed rites and ceremonies, I mean penitenci<g ref="char:EOLhyphen"/>all ceremonies.</p>
+                  <div type="subsection">
+                     <head>For the first. Agenda est in tempore Poenitentia.</head>
+                     <p>Repentance must be done in due, and fit time, all our life, should be the study of repen<g ref="char:EOLhyphen"/>tance, immediatly vpon any sinne committed, let our repentance be then practised, per<g ref="char:EOLhyphen"/>scribe not to thy selfe in presumption, and lin<g ref="char:EOLhyphen"/>gering time of thy conuersion. It is the grea<g ref="char:EOLhyphen"/>test of all follies, to deferre repentance, and to delay amendment of our sinfull life.</p>
+                     <q>
+                        <p>Qui <gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>odie non est, oras minus aptus erit. </p>
+                        <p>If to day be too soone, to morrow will be too late.</p>
+                        <pb n="11" facs="tcp:178215:11"/>
+                        <bibl>
+                           <hi>Ecclus. 5. 7. Cras, Cras,</hi>
+                        </bibl> to morrow, to morrow.</q>
+                     <p>It is the voyce of the Crow, indeed, it is the voyce of the Deuill, it is a deadly voyce, sounded forth by our deadly enemy: For re<g ref="char:EOLhyphen"/>pentance admits no delay, doe that therefore out of hand, forthwith, euen now; euery hower of thy life, and at the last howre of thy death.</p>
+                     <p>In youth begin well, lay a good foundati<g ref="char:EOLhyphen"/>on, hold on in thy midle age, and giue not ouer in thy latter end; for a presumptuous life, will neuer afford a prosperous death.</p>
+                     <p>
+                        <hi>Ʋix millessimus</hi> (saith Salomon) scarce one of a thousand (a wofull and lamentable re<g ref="char:EOLhyphen"/>port) that by Repentance doth study, the a<g ref="char:EOLhyphen"/>mendment of his wicked life.</p>
+                     <p>I am not ignorant, that <hi>Paenitentia,</hi> Repen<g ref="char:EOLhyphen"/>tance is <hi>Nunquam sera si sit seria,</hi> is neuer too late, if it be sincere; this stands assured by example of the Theefe. <hi>Luke 22.</hi> but take thou heed, the like grace may not be giuen thee, that was giuen and afforded him.</p>
+                     <p>There is (saith reuerend Saint <hi>Austin</hi>) this one Example in the Scripture, that wee should not despaire, and no more but that one, that we should not presume.</p>
+                     <p>Remember therefore (all that heare mee)
+<pb n="12" facs="tcp:178215:12"/> remember I say and forget not.</p>
+                     <p>1. That as the tree falleth so it lyeth, <hi>Re<g ref="char:EOLhyphen"/>member that.</hi> 2. That in Hell there is no re<g ref="char:EOLhyphen"/>demption, <hi>Remember that.</hi> 3. That being once gone from hence, we are past recouery, <hi>Remember that.</hi> 4. That as death doth pos<g ref="char:EOLhyphen"/>sesse vs, so the fearefull day will present vs, <hi>Remember that.</hi> 5. That we repent in this life before we die or <hi>neuer, Remember that.</hi>
+                     </p>
+                     <p>
+                        <hi>Example hereof.</hi>
+                     </p>
+                     <p>Looke vpon the richman in Hell, <hi>Luke 16.</hi>
+                     </p>
+                     <p>There is no deliuerance, no comming forth, no hope of a better life, but that kinde of fire which is intollerable (as some say) in truth incurable as many shall finde.</p>
+                     <p>
+                        <hi>Clemens Alexandrinus,</hi> makes mention of a conference, betwixt Christ and the Deuill, (it is extant as hee affirmeth in the Aegyptian library, the most famous in all the world, founded by great <hi>Ptolomy</hi> the learned) The question was, <hi>When the Kingdome of God should come?</hi> The answere was, when the worke of the Woman should cease. Of these particu<g ref="char:EOLhyphen"/>larly and briefely.</p>
+                     <p>And first, <hi>of the Kingdome of God.</hi>
+                     </p>
+                     <p>The kingdome of Christ, and the king<g ref="char:EOLhyphen"/>dome of God, doe differ <hi>non re, sed modo rei,</hi>
+                        <pb n="13" facs="tcp:178215:12"/> not in the thing it selfe, but in the manner, and meanes thereof. The kingdome of Christ is said to be the Church, that is, the company of the faithfull and elect (whilst they be in this life) who are gathered together and go<g ref="char:EOLhyphen"/>uerned by the spirit, the word and Sacra<g ref="char:EOLhyphen"/>ments, in which Christ is effectuall to begin a new life in righteousnesse and holinesse. Now this Church, and Kingdome of Christ, shalbe the Kingdome of God in the world to come, in the life eternall; at which time, the dispensation of the word, and Sacraments shall cease, when God will take away the vayle, and open himselfe vnto vs, that wee may see him as he is, face to face.</p>
+                     <p>The <hi>Ground, Rule,</hi> and <hi>Maxime</hi> from hence to be learned, is this,</p>
+                     <p>1. Be sure, that thou be a member of the Church Militant; if euer thou wilt be found in the Church <hi>Triumphant.</hi> 2. Take heed, that being once in, and of the Church, thou neuer practise seditiously to depart from the Church, or outragiously, Schismatically, or turbulently, to procure the molestation, trou<g ref="char:EOLhyphen"/>ble, vnquiet, or ouerthrow of the same. <hi>Cant. 3. 5.</hi> And thus of the Kingdome of God.</p>
+                     <p>Secondly, of the worke of the woman.
+<pb n="14" facs="tcp:178215:13"/> The worke of the woman is three fould. <hi>viz.</hi>
+                     </p>
+                     <list>
+                        <item>1. <hi>Procreation,</hi>
+                        </item>
+                        <item>2. <hi>Sinne,</hi> and consequent by sinne,</item>
+                        <item>3. <hi>Death,</hi>
+                        </item>
+                     </list>
+                     <p>And when these shall cease, then shall the Kingdome of God come. Of which in order. And first, of the first. One cause of the institu<g ref="char:EOLhyphen"/>tion of Mariage, was for Procreation sake, <hi>Crescite, et multiplicamini. Gen. 1. 28.</hi>
+                     </p>
+                     <p>But when this Kingdome of God, in most perfect beauty shall appeare, then shall Pro<g ref="char:EOLhyphen"/>creation cease, then no more vse of the Mid<g ref="char:EOLhyphen"/>wise, to helpe in the needfull time of trauell: for the wombe shalbe closed vp.</p>
+                     <p>This was the determination, of our Sauious to the Saduces, that in that Kingdome, they neither marry, nor are married, but are as the Angells of God. <hi>Mat. 22. 30.</hi> And thus of the first.</p>
+                     <p>
+                        <hi>Of the second, and third.</hi>
+                     </p>
+                     <p>The other worke of the Woman is sinne; and consequently by sinne death. For, first; Of the woman came the beginning of sinne, and through her we all die, <hi>Ecclus. 25. 26.</hi> Secondly, She tooke the fruit of the tree and did eate, and gaue to her husband, and he did eate also, <hi>Gen. 3. 6.</hi> Thirdly, <hi>Adam</hi> was not
+<pb n="15" facs="tcp:178215:13"/> deceiued, but the woman was deceiued, and was in the transgression. 1. <hi>Tim. 2. 14.</hi> For, as lands doe hold in <hi>capite,</hi> in respect of some speciall couenant of seruice: euen so doth sin hold in <hi>capite</hi> of the woman, as she being first deceiued, became the Deuils instrument, to deceiue the man. Let therefore all women from hence remember. First, their own weak<g ref="char:EOLhyphen"/>nesse. Secondly, the ancient fall they gaue to man and his posteritie. Thirdly, that she is the former cause of Originall sinne, and of our corrupted and defiled nature. So then the time shall come that generation, and procre<g ref="char:EOLhyphen"/>ation shall cease, one worke of the woman: and the time shall come, that sinne, and death shall also cease, the proper worke of <hi>Eue,</hi> in mankind. For, the elect of God shall sinne no more: the <hi>Israell</hi> of God shall die no more, but shall be translated from death, to liue for euermore. Procreation, sin, and death, shall haue an end, and cease. In this world there<g ref="char:EOLhyphen"/>fore, while we liue, let vs beleeue, and while we breathe let vs hope: This is the only place appointed, to lay hold on faith, and to leane on hope: for the time shall come, that faith, and hope also shall haue an end, and cease.</p>
+                     <pb n="16" facs="tcp:178215:14"/>
+                     <p> The difference betweene
+<list>
+                           <item>Faith</item>
+                           <item>Hope</item>
+                           <item>Love</item>
+                        </list> is this,</p>
+                     <p>Thy faith and hope, do end with the terme of thy life; but thy loue shall neuer haue an end. We loue in this life, and we shall still, and more perfectly loue in that life which is to come. Wouldst thou faine see the extent and perpetuitie of loue? looke then into the workes of Charitie.</p>
+                     <p>If a man haue once fed the hungrie, or clo<g ref="char:EOLhyphen"/>thed the naked &amp;c. hath he then done? hath he then his <hi>quietus est</hi> from God? I tell thee nay. For, in the workes of charitie, when man thinkes he hath made an end, he doth then but begin. the reason is pregnant: for loue hath no end, the end of our life, is not the end of our loue; the end of our loue in this life, is the beginning of a better loue in a be<g ref="char:EOLhyphen"/>ter life: but faith and hope doe cease when wee die, yet the fruit of faith and hope wee obtaine, though we be dead, and they de<g ref="char:EOLhyphen"/>parted.</p>
+                     <p>Now briefly to recapitulate touching the first circumstance of the time when to repent; namely, in this life, or now, forthwith, with<g ref="char:EOLhyphen"/>out delay.</p>
+                     <pb n="17" facs="tcp:178215:14"/>
+                     <p>This hath also beene exemplified and en<g ref="char:EOLhyphen"/>larged by the kingdome of Christ &amp; of God, wherein we haue learned. First, that in the one is the dispensation of the word, and ad<g ref="char:EOLhyphen"/>ministration of the Sacraments, but for a time: for they shall haue their end, and shall cease. Secondly, that the works of the woman, pro<g ref="char:EOLhyphen"/>creation, sin, and death, shal be but for a time, and shall haue an end, and they shall cease. Thirdly, saith, and hope also, for a season shall haue their bounds and limits, which they shal not passe, but haue their time, and shall cease. Fourthly, we thereby learne, that repentance hath also her lists and race, wherein she must run: namely the terme of this life, the daies of our Pilgrimage, and then hath her end, and shall cease. In this therefore as the Apo<g ref="char:EOLhyphen"/>stle counselleth, <hi>sic currite, vt comprehendatis, 1. Cor. 9.</hi>
+                     </p>
+                     <p>And thus, God in mercie we beseech him graunt, that wee may so runne, that with the wings of faith, we may ascend to the Mount of God, and flye to his heauenly promises: and by the feete of repentance, we may not only goe from sinne, and vncleannesse, but also from punishment, and vengeance, <hi>Amen.</hi>
+                     </p>
+                  </div>
+                  <div type="subsection">
+                     <head>
+                        <pb n="18" facs="tcp:178215:15"/>
+                        <hi>The second Circumstance is,</hi>
+                     </head>
+                     <p>Concerning the meanes, and motiues, by which we are drawne to Repentance, which are in number foure, <hi>viz.</hi>
+                     </p>
+                     <p>The first is, Punishment from God, in re<g ref="char:EOLhyphen"/>spect of sin in man. There is <hi>malum culpae,</hi> and <hi>malum poenae,</hi> one kind of euill which is sinne▪ and another, which is the reward of sin. The Lord is free and farre from sin, no author, no fautor, or actor thereof, but a sore reuenge<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> of sinne, and hater of all impietie.</p>
+                     <p>Now, the sinne which we doe, is the cause of the punishment we suffer: whether it be priuate or publike, which notwithstanding God gratiously vseth as meanes, and motiues, to win vs to repentance. No man euer was▪ or shall be punished, but in respect of prece<g ref="char:EOLhyphen"/>dent sinne: but wheresoeuer God findeth sin there he punisheth it seuerely.</p>
+                     <p>
+                        <hi>As for example.</hi>
+                     </p>
+                     <p>The house of <hi>Dauid</hi> is summoned to judge<g ref="char:EOLhyphen"/>ment, <hi>2. Sam. 12.</hi> And it is (if rightly consi<g ref="char:EOLhyphen"/>dered) a looking-glasse to all posterities, to see and behold by, what is, and shall be the reward of sinne. <hi>Dauid,</hi> though otherwise a man after Gods owne heart and dearely be<g ref="char:EOLhyphen"/>loued, yet committing sinne with <hi>Beersheba.</hi>
+                        <pb n="19" facs="tcp:178215:15"/> First, the childe so conceiued dieth the death, Secondly, his whole postaritie doth smart for it. Thirdly, his children lawfully begotten, some are slaine with the sword, some rebell against their Father, some shamefully deflou<g ref="char:EOLhyphen"/>red, and some of them killed one of another. Fourthly, his wiues foully rauished, in the sight of the Sun, and in the face of all Israell. Fiftly, the sword was not to depart from his house for euer. So then we see, there is no misery matchable with that, which God in<g ref="char:EOLhyphen"/>flicteth vpon man for sinne. A grieuous thing it is for a man to be punished in his wife which is his side, in his children which are his loynes, in his seruants who are his armes, hands, legs, and feete, or in his goods which be as a chaine, and ornament about his neck: and yet for sinne, a man is smitten in all these; yea, and in himselfe also most miserably. Yet notwithstanding all this, if he haue grace so to interpret them, they are all sanctified meanes, and motiues to repentance.</p>
+                     <p>A Question may heere be moued, <hi>viz.</hi>
+                     </p>
+                     <p>Why punishment should be executed, not<g ref="char:EOLhyphen"/>withstanding the offence is perdoned: for this indeed was <hi>Dauids</hi> case, pronounced by <hi>Nathan?</hi> I answere: These punishments from
+<pb n="20" facs="tcp:178215:16"/> God, haue a two-fold effect, according to the two-fold different qualitie, of the godly, and wicked.</p>
+                     <list>
+                        <label>viz.</label>
+                        <item>
+                           <list>
+                              <item>1. To the godly, they tend to their in<g ref="char:EOLhyphen"/>formation, and correction only.</item>
+                              <item>2. To the wicked, they are seuere pu<g ref="char:EOLhyphen"/>nishments, tending to their ruine, and destruction only. And to the godly, they serue as thunder-bolts, <hi>viz▪</hi>
+                              </item>
+                           </list>
+                        </item>
+                     </list>
+                     <p>First, to awake the drowsie sinner. Second<g ref="char:EOLhyphen"/>ly, that being awake, he might thereby be pricked on, to vnfeyned Repentance.</p>
+                     <p>And as to the righteous, they are alwaies tokens of mercie; so to the wicked, they are scales of wrath, and judgement: for, to the godly, they are, and serue as: first, exercises of Faith: secondly, trials of Patience: thirdly, proofes of Gods Iustice: fourthly, examples of Instruction, thereby to teach them, to be<g ref="char:EOLhyphen"/>ware for the future, seeing Gods wrath is al<g ref="char:EOLhyphen"/>ready kindled. The conclusion then is, that by Repentance, temporall punishments are sometimes deferred, sometime mitigated, sometime remoued, and assuredly at all times remitted.</p>
+                     <p>The second motiue is Feare, for feare doth keepe vs in moderation and awe, I meane not
+<pb n="21" facs="tcp:178215:16"/> the seruile, the feare of slaues, but the fili<g ref="char:EOLhyphen"/>all, the feare of sonnes: not in the respect of the vengeance, the reward of sinne, but in respect of the offence, for committing of sinne. Whereo<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <hi>
+                           <gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ertull▪</hi> sweetely saith, <hi>vbi metus uullus ibi emendatio nulla, &amp; vbi emenda<g ref="char:EOLhyphen"/>tio nulla ibi poenitentia vana.</hi> Where this filiall, reuerend, vertuous, and religious feare is not, there can be no heartie, and true amendment, and where this true amendment is not, there (let the outward shew be neuer so great) the Repentance is but hypocriticall and vaine. And yet both good and bad (as the Poet saith) <hi>oderunt,</hi> they both feare, yea and <hi>pec<g ref="char:EOLhyphen"/>care,</hi> they both scare to sinne too; but diuersly affected, the one sort <hi>formidine poenae,</hi> for feare of seueritie, the other, <hi>virtutis amore,</hi> For loue of vertue, and this onely restreyneth the godly from sinne; namely, not for feare of vengeance, but for loue and reue<g ref="char:EOLhyphen"/>rence.</p>
+                     <p>A third motiue to Repentance is, the quick and liuely remembrance of sinne: for a sinner (as I noted) is a heauie and drowsie sleeper. Example heereof <hi>Ionas,</hi> who was a sleepe in the sides of the Ship, while judgement was at hand to cast him ouer board. <hi>Dauid</hi> also
+<pb n="22" facs="tcp:178215:17"/> may instance this point, who slept in his sinne the space of a whole yeare; his conscience ne<g ref="char:EOLhyphen"/>uer checkt him, till judgements were like to choake him.</p>
+                     <p>A senselesse securitie i<gap reason="illegible" resp="#murp" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> to feele the sting of sinne, nor to feare the wrath of Gods displeasure. The remembrance of sinne in man, doth cause the forgetfulnesse of sinne in God: so againe, the forgetfulnesse of sinne in man, doth cause the remembrance of sinne in God.</p>
+                     <p>Yea, by this remembrance of sinne, wee put in practise a sacred preuention of Gods judgements; for when he purposeth to strike a sinner, if he see man by repentance altered, the Lord is changed; he doth v<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>bend his bowe case his arrowes, sheath his sword, and lay aside all his instruments of reuenge, be<g ref="char:EOLhyphen"/>cause he is slow to anger, readie to forgiue, full of pittie and compassion; if thou by re<g ref="char:EOLhyphen"/>pentance be altered, he is changed. And this vse of the remembrance of our sinnes is full of sweet and fruitfull consolation.</p>
+                     <p>For we must deale with our sinnes, as men deale with their debts, (which for suretiship they haue payd) when they take in their bonds, and euidences and cancell them, they
+<pb n="23" facs="tcp:178215:17"/> will not therefore burne them, though they be neuer more lyable to be paid; but will file and hang them vp in their continuall sight, that whensoeuer they shall be moued to enter into the like debt, and trouble againe, they may by the sight thereof be put in minde, into what vexation and danger, they were formerly plunged, that thereby they may shunne, and auoyd the like, for the time to come, and giue <hi>non plus,</hi> and resistance, to those that tempt and importune them there<g ref="char:EOLhyphen"/>vnto.</p>
+                     <p>A fourth motiue is, the Preaching of the word. Now, the word is deuided, into the Law and Gospell. And in this question as touching the most powerfull instrument of the holy Ghost, in working repentance: some hold the Law, and some the Gospell to be the chiefe meanes, instrument, or motiue there<g ref="char:EOLhyphen"/>vnto. For my part, I doe suppose them to be both so necessary, as neither of them doe good without each other in the worke of Re<g ref="char:EOLhyphen"/>pentance. For the Preaching of the Law a<g ref="char:EOLhyphen"/>lone, doth breed desperation: and the Prea<g ref="char:EOLhyphen"/>ching of the Gospell alone, may quicken pre<g ref="char:EOLhyphen"/>sumption, the two dangerous gulfes, <hi>Silla</hi> and <hi>Charibdis.</hi>
+                     </p>
+                     <pb n="24" facs="tcp:178215:18"/>
+                     <p>Therefore there is neither of them both, but hath a proper vse, in the mistery of Repen<g ref="char:EOLhyphen"/>tance. A resemblance hereof; as, in <hi>Phisicke</hi> the skilfull Artist, intending to purge the grosse humors of a corrupted body, doth first vse some Electuary or Preparatory Potion, to serue as meanes to prepare the body, and to make it fit to receiue the medicine Purga<g ref="char:EOLhyphen"/>tiue: So, the terrours, and threatnings of the Law, are answerable, to the Phisitians Pre<g ref="char:EOLhyphen"/>paratory, and doth as it were make ready the way, by opening of the heart, to receiue Re<g ref="char:EOLhyphen"/>pentance.</p>
+                     <p>The end of the law, is to discouer sinne. <hi>Rom. 7. 7.</hi> For there is in man before the law, an ignorance, and sencelesnesse of sinne, hee feeles not the poyson, that feedeth on his soule to his distruction.</p>
+                     <p>The law doth Sacrifice a man to God, and makes him poore in Spirit, and humble in himselfe, to see his corruption and sinne. The Gospell promiseth to saue, but it doth not performe this promise, but to such onely, whom the law hath thus Sacrificed to Christ.</p>
+                     <p>Christ calleth sinners, but such onely, as are laden with their sinnes. <hi>Mat. 11. 28.</hi> Hee cryeth to such as thirst, Come▪ <hi>Esay. 40. 1.
+<pb n="25" facs="tcp:178215:18"/> Reu. 22. 17.</hi> But yet to such onely, as thrst, as <hi>Dauid</hi> did. <hi>Psa. 42. 1. &amp; Psal. 63. 2.</hi>
+                     </p>
+                     <p>The Gospell is not to be Preached to any, before he be Ch<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>istened by the Law, that is, before the Law hath done her proper worke. Let Ministers therfore first schoole their peo<g ref="char:EOLhyphen"/>ple by the Law, before they rayse them by the Gospell.</p>
+                     <p>It is necessary, the law should goe before the Gospell. The sons of thunder, before the sonnes of comfort, that then, when the law hath wounded them, the Gospell may cure and heale.</p>
+                     <p>The Law cannot quiet the conscience of man, it was not ordained to that purpose, it serueth to present to the eie of our soule, our dangerous state, and to smite our conscience with terrour, and feare, then commeth the Gospell, and falleth to worke (when the law hath done this) assuring man, that his salua<g ref="char:EOLhyphen"/>tion consisteth, in <hi>Remissione Peccatorum,</hi> in the forgiuenesse of sinne by Christ. He that is ignorant of the law, knoweth neither what misery is in himselfe, nor what mercy is in God. We Preach iudgement, to make men sue for mercy, to make them cry for mercy; for merit they haue none, we Preach death
+<pb n="26" facs="tcp:178215:19"/> and damnation, to bring sinfull soules to sal<g ref="char:EOLhyphen"/>uation. But to Preach mercy, and saluation, before men see their sinnes, and feele their misery, is to Preach the Gosp<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ll in vayne, and to no purpose.</p>
+                     <p>The Law hath her time and place, her time <hi>How long,</hi> and place <hi>where to Raigne.</hi>
+                     </p>
+                     <p>By the raigning of the Law, is meant, the condemnation of the Law: Now this Law ceaseth to raigne that is, to condemne, when faith in a true repentant heart, is once begun. For the law hath no place, in the repentant, and amending man. And thus of the second Circumstance.</p>
+                  </div>
+                  <div type="subsection">
+                     <head>The third Circumstance is,</head>
+                     <p>The lets, and hinderances, whereby wee are withdrawen, from fruitfull repentance: For euidence whereof, the raising of the wid<g ref="char:EOLhyphen"/>dowes sonne of Naim. <hi>Luke 7. 11.</hi> If it please you, that I breefly Paraphrase it by an Alego<g ref="char:EOLhyphen"/>ry (as the Fathers haue done) it will afford much light therevnto, as thus:</p>
+                     <p n="1">1. The mother, doth represent the Church, bewailing the death of her children.</p>
+                     <p n="2">2. The sonne, doth liuely figure, the estate of sinfull soules, who though they seeme to liue in body, yet are they dead in soule by sin.</p>
+                     <p n="3">
+                        <pb n="27" facs="tcp:178215:19"/>3. The foure Beaters are these, <hi>viz.</hi> first, hope of long life: secondly, long custome in sinne: thirdly, contempt of Gods word: fourthly, worldly prosperity: All which be<g ref="char:EOLhyphen"/>ing well considered, will proue shrewd lets to repentance. And of them all, I know none, that beareth greater sway then wealth, and worldly prosperity. Of which I will onely in<g ref="char:EOLhyphen"/>sist, in stead of the rest: for oftentimes, it doth bewitch man, as the <hi>Cups</hi> of <hi>Circes,</hi> and makes him drunke, in the forgetfulnesse of God, and amendment of his life.</p>
+                     <p>One of the Fathers saith, that of prosperity, ariseth all <gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>xcesse, and superfluity, and that from thence, doth spring all vice, and impie<g ref="char:EOLhyphen"/>ty against God.</p>
+                     <p>
+                        <hi>Seneca</hi> saith, that by too much prosperity, the mind is hardned, and therefore, Saint <hi>Paul</hi> bids <hi>Timothy</hi> to charge rich men, not to be high minded. Saint <hi>Iames</hi> doth wake their heauy heads, and drousie hearts, with a dole<g ref="char:EOLhyphen"/>full <hi>Elegie: Weepe, and howle, yee Richmen. Iames 5. 1.</hi> There is a deadly sleepe of secu<g ref="char:EOLhyphen"/>rity, and sleepe to death, in flowing pros<g ref="char:EOLhyphen"/>perity.</p>
+                     <p>Call to mind the Purpuled Richman, who being dead, was quickly conueyed to hell; a
+<pb n="28" facs="tcp:178215:20"/> fearefull change. Another Richman, in <hi>Luke, 12.</hi> who, vpon a litle extraordinary spring, he was at his wits end, and knew not what to doe: for gaping for a plentifull haruest, hee would doe this, and that, <gap reason="illegible" resp="#murp" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> you may reade, but by death preuented, he was answered, (as all such godlesse and graceles rich ones shall) <hi>Stulte, hac nocte,</hi> a sudden and sore change.</p>
+                     <p>The iudgement of our Sauiour, as our close shall therefore stand, <hi>Mat. 19. 23.</hi> That it is hard indeed, for a wicked rich man, to enter into the Kingdome of Heauen. And thus of the third Circumstance.</p>
+                  </div>
+                  <div type="subsection">
+                     <head>The fourth and last Circumstance is.</head>
+                     <p>The griefe, and sorrow, which we are to vndergoe, if we will truely repent; together with certaine rites, and ceremonies necessari<g ref="char:EOLhyphen"/>ly belonging to vnfayned repentance, to which purpose here in this Woman three things are principally markeable, <hi>viz.</hi>
+                     </p>
+                     <p>First, Her weeping, an euident argument of her feare, and dread of conscience, for her sinne.</p>
+                     <p>Secondly, Her comming to Christ: an assu<g ref="char:EOLhyphen"/>red argument of her faith, and hope, which she had of the remission of her sinne.</p>
+                     <p>Thirdly, Her actions, <hi>viz.</hi> 1. At the instant,
+<pb n="29" facs="tcp:178215:20"/> 2. Afterwards: vndoubted testimonies of her duty, and loue▪ <hi>per modum obedientiae, non per modum satisfactionis,</hi> in way of obedience, not of sufficiency, or satisfaction, as the Papists say.</p>
+                     <p>So that he that thinketh seriously and ad<g ref="char:EOLhyphen"/>uisedly, of the repentance of <hi>Mary Mag<g ref="char:EOLhyphen"/>dalen,</hi> may rather weepe in remembrance of it, then deliuer any discourse of it. What sto<g ref="char:EOLhyphen"/>ny heart would not this soften? to see those flouds of teares, that sea of sorrow, and to heare those deepe sighes, and farre fetched groanes infallible signes of vnfayned repen<g ref="char:EOLhyphen"/>tance.</p>
+                     <p>Obserue I pray you, the Circumstance of time, <hi>inter epulas lachrimas,</hi> when others were feasting, then was she weeping, so feeding on the bread of teares, and had plenteousnesse of teares to drinke, <hi>Psa 80. 5.</hi> In this her lamen<g ref="char:EOLhyphen"/>table Repentance, how great signes shee shews, <hi>et fidei, et charitatis,</hi> both of faith and loue. By which teares of repentance, shee seemes to breake the very strings of her hart.</p>
+                     <p>
+                        <hi>Dolor est comes poenitentiae, et lachrimae sunt testes doloris,</hi> saith Saint <hi>Austin;</hi> teares are witnesses of true sorrow, as griefe is the com<g ref="char:EOLhyphen"/>panion of Repentance.</p>
+                     <pb n="30" facs="tcp:178215:21"/>
+                     <p>In Repentance a man must vse seuerity a<g ref="char:EOLhyphen"/>gainst himselfe, that being iudged of him<g ref="char:EOLhyphen"/>selfe, he be not condemned of the Lord, <hi>1. Cor. 11. 31.</hi>
+                     </p>
+                     <p>Therefore, as this poore woman here doth, so let vs send our Embassadors to God before vs; namely, our teares, sighes, and groanes, our threefould Cable, powrefull with God: being all outward actions, expressing our in<g ref="char:EOLhyphen"/>ward affections. Wherein, as Saint <hi>Bernard</hi> saith, <hi>in quantum non peperceris tibi, in tantum cred<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> mihi, Deus tibi parcit,</hi> in how little, thou doest spare thy selfe in thy repentance, be<g ref="char:EOLhyphen"/>leeue me, by so much the more God will spare thee. For a broken, and contrite heart (full fraught with sorrow,) is a <hi>sacrifice</hi> to God. <hi>Psal. 51. 17.</hi>
+                     </p>
+                     <p>Sorrow towards God worketh Repentance to Saluation, but sorrow of the world brin<g ref="char:EOLhyphen"/>geth death. <hi>2. Cor. 7. 10.</hi>
+                     </p>
+                     <p>The heauinesse of the godly in Repentance doth differ from the sorrow of the wicked, though both are sorrowfull.</p>
+                     <p n="1">1. The Godly, for that by sinne they haue offended God.</p>
+                     <p n="2">2. The wicked, for feare of punishment, not for feare of the offence.</p>
+                     <pb n="31" facs="tcp:178215:21"/>
+                     <p>But heerein the vnspeakeable goodnes of Almighty God, doth plentifully appeare, in turning the griefe and sorrow of the godly, into cheerefull▪ and gladsome ioy: accor<g ref="char:EOLhyphen"/>ding to his owne gracious promise. <hi>Iohn 16. 22.</hi>
+                     </p>
+                     <p>For God indeede doth comfort all true repentant sinners,</p>
+                     <p>
+                        <table>
+                           <row>
+                              <cell rows="5">Whether it be the</cell>
+                              <cell>sitting,</cell>
+                              <cell rows="5">Sinner.</cell>
+                           </row>
+                           <row>
+                              <cell>sleeping,</cell>
+                           </row>
+                           <row>
+                              <cell>flying,</cell>
+                           </row>
+                           <row>
+                              <cell>returning,</cell>
+                           </row>
+                           <row>
+                              <cell>or mourning.</cell>
+                           </row>
+                        </table>
+                     </p>
+                     <p>
+                        <table>
+                           <row>
+                              <cell rows="5">For the</cell>
+                              <cell>sitting</cell>
+                              <cell rows="5">sinner, is</cell>
+                              <cell>raised,</cell>
+                           </row>
+                           <row>
+                              <cell>sleeping</cell>
+                              <cell>awaked,</cell>
+                           </row>
+                           <row>
+                              <cell>flying</cell>
+                              <cell>stayed,</cell>
+                           </row>
+                           <row>
+                              <cell>returning</cell>
+                              <cell>receiued,</cell>
+                           </row>
+                           <row>
+                              <cell>or mourning</cell>
+                              <cell>comforted</cell>
+                           </row>
+                        </table>
+                     </p>
+                     <p>What vnfaigned repentance was there e<g ref="char:EOLhyphen"/>uer without sorrow, weeping, mourning, Sackcloth, and ashes, humbling our selues before God: For these are proper, and neces<g ref="char:EOLhyphen"/>sary branches thereof, which if they be vsed in sincerity and simplicity, and not in dissem<g ref="char:EOLhyphen"/>bled, Popish, <hi>perfunctory</hi> hypocrisie, they euer were, now are, and alwayes will bee, acceptable to God.</p>
+                     <pb n="32" facs="tcp:178215:22"/>
+                     <p>And the godly hauing thus farre entred in<g ref="char:EOLhyphen"/>to Repentance by confession, they continue therin by contrition and shedding of teares, as for example.</p>
+                     <p>The People of Israell, beeing sharply re<g ref="char:EOLhyphen"/>buked by the Angell <hi>Iudg. 2. 4.</hi> they cryed and wept, and called the name of the place <hi>Bochim, a fletu, et gemitu,</hi> of sorrow and sighing.</p>
+                     <p>The mourning of <hi>Dauid</hi> in his bed,</p>
+                     <p>The weeping of <hi>Ionas</hi> in the Whales belly,</p>
+                     <p>The mourning and cry of rhe <hi>Niniuites,</hi>
+                     </p>
+                     <p>The bitter Repentance of <hi>Peter,</hi> and</p>
+                     <p>The salt teares of <hi>Mary Magdalen,</hi> doe clear<g ref="char:EOLhyphen"/>ly expresse.</p>
+                     <p>The griefe of a true repentant Sinner is compared to the paines and pangs of a wo<g ref="char:EOLhyphen"/>man in trauaile.</p>
+                     <p>Inexpressible indeede are the passions of Child-birth, and little ioy is there to the poore patient, till the Child bee borne, and then shee reioyceth to see her owne fruit so much dersired, which lay so secretly in the wombe, a bed of darkenesse: Euen so, the griefe of Repentance (which is excessiue great) is qualified with the mixture of ioy and comfort, to behold the sweet fruit of his
+<pb n="33" facs="tcp:178215:22"/> trauell, <hi>Newnes of lise.</hi>
+                     </p>
+                     <p>This is a mournefull <hi>Elegie,</hi> and dolefull Song.</p>
+                     <p>To eat thy bread like Ashes, and mingle thy drinke with thy teares. <hi>Psal. 102.</hi>
+                     </p>
+                     <p>
+                        <hi>Dauid</hi> there seemes in respect of the a<g ref="char:EOLhyphen"/>boundant sorrow, required in Repentance, to change euen the course of Nature: For <hi>Homo</hi> is <hi>Animal sociabile,</hi> created for socie<g ref="char:EOLhyphen"/>ty: but now by Repentance, (so sore affect<g ref="char:EOLhyphen"/>ed with griefe, hee shunneth company, hee delighteth in no society, but assimulateth himselfe to a <hi>Pelican</hi> in the wildernesse, an Owle in the Desert, and is like a Sparrow, that sitteth alone vpon the house toppe.</p>
+                     <p>And thus of the Circumstances.</p>
+                     <p>Now briefely of the rites, and ceremonies expressing true Repentance, as these that follow, and such like.</p>
+                     <p>To knock our hard and stony hearts with the Publican. <hi>Luke 18.</hi>
+                     </p>
+                     <p>To smite thy thigh. <hi>Ier. 31. 18.</hi>
+                     </p>
+                     <p>To teare the haire. <hi>2. Sam. 13.</hi>
+                     </p>
+                     <p>Tow wring and smite the hands. <hi>Ezech. 21.</hi>
+                     </p>
+                     <p>To rent the garments. <hi>Esay, 37.</hi>
+                     </p>
+                     <p>To frequent solitary places. <hi>Esay. 2.</hi>
+                     </p>
+                     <p>To lye vpon the ground. <hi>Dan. 10.</hi>
+                     </p>
+                     <pb n="34" facs="tcp:178215:23"/>
+                     <p>To put on Sackcloth. <hi>Ionah 3.</hi>
+                     </p>
+                     <p>To strew Ashes. <hi>Iob. 42.</hi>
+                     </p>
+                     <p>To proclaim solemne &amp; publike fasts. <hi>Io. 2.</hi>
+                     </p>
+                     <p>
+                        <hi>Ie<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>unare,</hi> to fast. <hi>Ier. 14.</hi>
+                     </p>
+                     <p>
+                        <hi>Vlulare,</hi> to howle. <hi>Ier. 15.</hi>
+                     </p>
+                     <p>And thus of the Rites, and Ceremonies.</p>
+                  </div>
+               </div>
+               <div type="section">
+                  <p>Now we come to the obseruances, and spe<g ref="char:EOLhyphen"/>ciall markable things, in and about Repen<g ref="char:EOLhyphen"/>tance.</p>
+                  <div type="subsection">
+                     <head>The first Obseruation.</head>
+                     <p>The last furtherance, and helpe to Repen<g ref="char:EOLhyphen"/>tance (which we noted) was the Preaching of the word, which is the power of God to saluation. <hi>Rom. 1. 16.</hi> for, where Prophesie faileth, there the people perish. <hi>Prou. 19. 18.</hi>
+                     </p>
+                     <p>A notable meane indeed, to bring men to Repentance, is the</p>
+                     <list>
+                        <item>Sound of the Gospell,</item>
+                        <item>
+                           <hi>Arons</hi> Bells.</item>
+                        <item>The Preaching tongue.</item>
+                        <item>The crowing Cocke.</item>
+                        <item>
+                           <hi>Iohn Baptists</hi> cry.</item>
+                        <item>S. <hi>Ieroms</hi> Trumpe, <hi>Surgite.</hi>
+                        </item>
+                        <item>King <hi>Phillips</hi> boy, <hi>memento.</hi>
+                        </item>
+                     </list>
+                     <p>A singular thing it is indeed, to haue wor<g ref="char:EOLhyphen"/>thy men in the Church, able to teach and instruct, to inuite and intreat to Repentance.</p>
+                     <pb n="35" facs="tcp:178215:23"/>
+                     <p>Oh, but where is <hi>Origen,</hi> who was called <hi>Magister Ecclesiarum,</hi> the great Maister of the Church? Where is S. <hi>Basill,</hi> that was surnamed, <hi>Canon fidei,</hi> the rule of Faith?</p>
+                     <p>Where is <hi>Euse<gap reason="illegible" resp="#murp" extent="3 letters">
+                              <desc>•••</desc>
+                           </gap>s,</hi> that was stiled <hi>Regula Veritatis,</hi> the standard of truth?</p>
+                     <p>And where now is <hi>Athanasius,</hi> that was termed, <hi>Orbis oculus,</hi> the eye of the world? Oh, where shall wee finde them?</p>
+                     <p>I doe not speake this, as though the Church of God, yea this Church in <hi>England</hi> (in de<g ref="char:EOLhyphen"/>spite of all malignants, that traduce it) were without such singular instruments; for I doe assuredly know, that this Church at this day (God haue the praise) is as well furnished with learned men, as any of the reformed Churches in all the World: as I can also shew and proue, by the letters commendatory from beyond the Seas, and by their workes dedicated to diuers, of our learned Bishops. Yet with griefe I doe bewaile, to finde in ma<g ref="char:EOLhyphen"/>ny places, the Lords crop to be so supersemi<g ref="char:EOLhyphen"/>nated, and ouer sowne with tares, godlesse, and vnprofitable persons.</p>
+                     <p>Wee haue also swarmes of locusts, <hi>Phari<g ref="char:EOLhyphen"/>ses, Saduces, Athiests.</hi>
+                     </p>
+                     <p>Pharises, who swell in conceipt of their
+<pb n="36" facs="tcp:178215:24"/> owne Righteousnes, <hi>Iustciaries,</hi> ambitious hypocrites, who bragge of that they haue not, and would seeme to bee what indeede they are not.</p>
+                     <p>
+                        <hi>Saduces, Libertines,</hi> and <hi>Atheists,</hi> wh<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> deny the resurrection of the dead, with othe<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> principles of faith and Religion, yea they cal<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> into question Gods truth in his word, who beleeue not there is either God, Spirit, An<g ref="char:EOLhyphen"/>gell, or iudgement to come, and therefore they say and doe what they list; these make a scoffe at Religion, and a very iest of true Repentance.</p>
+                  </div>
+                  <div type="subsection">
+                     <head>The 2. Obseruation is,</head>
+                     <p>As Faith is supposed to haue wings, and Repentance to haue feet: and as the natural man in committing sinne, doth deface the Image of God, and in feare for sinne, doth goe from God, doth flye from God; So doth he againe by Repentance make a stop. It isnot the least property and point in the mana<g ref="char:EOLhyphen"/>ging of a horse, to bring him to his stop▪ A Repentant man making his stop, goes no<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> further, yea he reteynes himselfe, and goes no<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> further.</p>
+                     <p>In this place, Repentance signifies, to turn<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> againe, and so the Repentant now turne<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <pb n="37" facs="tcp:178215:24"/> againe to God from whom by sinne he fled: witnesse the Prodigall Sonne, who after a se<g ref="char:EOLhyphen"/>rious consultation, he grew to a religious re<g ref="char:EOLhyphen"/>solution, and so to an effectuall, and vertuous execution: with <hi>
+                           <gap reason="illegible" resp="#murp" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap>, redibo</hi> and so by turning from his course he followed, he came to his father, from whom he fled. <hi>Luke 15.</hi>
+                     </p>
+                     <p>So by this stop, and turning againe, the Re<g ref="char:EOLhyphen"/>pentant auoideth the wrath to come, which none can doe, but <hi>Alis fidei &amp; pedibus poeni<g ref="char:EOLhyphen"/>tentiae,</hi> by the wings of faith, and feete of Repentance onely.</p>
+                  </div>
+                  <div type="subsection">
+                     <head>The 3. Obseruation.</head>
+                     <p>Is it possible for an old, aged, gray-headed man, drooping, and stooping for age, that he may be said to be but three yeares old when he is three times 30. yeares old? Yet such a one we read of, who so auouched: when que<g ref="char:EOLhyphen"/>stion was demanded how this might be? Hee answered thus: three yeares agoe (saith hee) I was with <hi>Zacheus</hi> in the Fig-tree, with <hi>Ma<g ref="char:EOLhyphen"/>thew</hi> at the receipt of Custome, with the Prodigall sonne in afarre Country, and with <hi>Mary Magdalen</hi> at the feete of Christ, I was thē (saith he) as vile as vile may be, but by the grace of God, and hearing of his word, by faith and true Repentance I am now another
+<pb n="38" facs="tcp:178215:25"/> man, <hi>tanto mutatus,</hi> as farre changed as you now see: for Repentance is transformatiue, and doth alter a man: It is (saith hee) three yeares since God wrought this miracle in me, (a miracle indeed) and <gap reason="illegible" resp="#murp" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>e I am, and no older, for before I was nothing at all.</p>
+                  </div>
+                  <div type="subsection">
+                     <head>The fourth Obseruation.</head>
+                     <p>A shame it is for Christians, if the name, and Gospell of Christ, be euill spoken of through their irreligious, and dissolute liues, Can Iewes, Turkes, Infidels be perswaded that there is any goodnesse, in that Religion, the professors whereof are so vile, and pro<g ref="char:EOLhyphen"/>phane? and yet we know, that none of vs can be ordered otherwise, vnlesse God grace preuent vs, his spirit guide vs, and true re<g ref="char:EOLhyphen"/>pentance possesse vs, we are naturally so apt, to all sinne, and disobedience.</p>
+                     <p>Therefore, as our Sauiour Christ once que<g ref="char:EOLhyphen"/>stioned, concerning the Scribes and Pharises, whereunto he might liken, or compare them, and presently answered himselfe; so may that answere be fitly said of men now a daies, that they are as stubborne Children in the mar<g ref="char:EOLhyphen"/>ket place stubborne, and foolish too, <hi>Luc. 7. 3.</hi> who though we pipe, yet they wil not dance, though we weepe, yet they will not mourne.</p>
+                  </div>
+                  <div type="subsection">
+                     <head>
+                        <pb n="39" facs="tcp:178215:25"/>
+                        <hi>The fift Obseruation.</hi>
+                     </head>
+                     <p>This woman was wealthie, and very rich, but very leude, and dishonest. Nore heere, that wealth will haue a veine to shew it selfe; as some in appare<gap reason="illegible" resp="#murp" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>, some in building, some in feasting, some in oppressing, some in coue<g ref="char:EOLhyphen"/>ting, and some in vncleane and filthie lusting, as in this rich woman before her conuersion.</p>
+                     <p>But after her conuersion, she had a better vent, a better veine to shew her wealth, and that was <hi>Ministrare Christo,</hi> to minister to Christ, and his necessities.</p>
+                     <p>Let rich men and women, heerein imitate this worthy <hi>Marie Magdalen,</hi> to shew their wealth in supplying the wants of Christ his Ministers, and poore members.</p>
+                  </div>
+                  <div type="subsection">
+                     <head>The sixt Obseruation.</head>
+                     <p>
+                        <hi>Seneca</hi> (as it seeme▪) borrowed some light from a Christians practise, in the examination of his life, in the darke, and dead of the night, concerning thoughts, and deeds committed the day before, as <hi>Dauid</hi> saith <hi>Psal. 77. 6.</hi> I call to remembrance &amp;c. and so saith <hi>Seneca, faciebat hoc Sextius consumante die, cum se ad nocturnam quietem recepisset,</hi> he would de<g ref="char:EOLhyphen"/>mand of himselfe thus, <hi>Sextius,</hi> what good hast thou done to day? what euill hast thou
+<pb n="40" facs="tcp:178215:26"/> cured? what sinne hast thou resisted? in what art thou altered?</p>
+                     <p>Oh beloued, what better practise, then this accompt? what better sleepe, then after such examination? When the candle is put out, then call the day that is past to a recko<g ref="char:EOLhyphen"/>ning: If thou hast done any thing well, giue God the praise, for it was his gift: if any thing amisse, then call to God for grace and pardon, but couch not thy head vpon thy pil<g ref="char:EOLhyphen"/>low to take thy rest, before thou haue thy <hi>quietus est</hi> from him.</p>
+                  </div>
+                  <div type="subsection">
+                     <head>The seuenth Obseruation.</head>
+                     <p>When Christ came into the World, there were two softs of people, some were blinde, and some could see. There were some foo<g ref="char:EOLhyphen"/>lish, and some wise. Christ by his comming did not make them so, but at his comming found them so.</p>
+                     <p>There was then also, a two-fold wisedome in the World, one which the Sonne of God found heere, and another which he brought with him. Consider then, and marke heere well I pray you, in this doctrine of Repen<g ref="char:EOLhyphen"/>tance, so often Preached vnto you, obserue and note, how the Gospell findeth you, and how the Gospell leaueth you.</p>
+                  </div>
+                  <div type="subsection">
+                     <head>
+                        <pb n="41" facs="tcp:178215:26"/>
+                        <hi>The eight Obseruation.</hi>
+                     </head>
+                     <p>There is a Prouerb among the Latins, that <hi>frons homin<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>m praefert,</hi> the fore-head shewes, what the man is. <hi>Frons</hi> (as <hi>Marcus Varro</hi> saith) commeth <hi>a foratu,</hi> of boaring, because the eye-hoales, are as it were boared throughy the fore-head.</p>
+                     <p>It seemeth then by this <hi>Etimologie,</hi> that the eye sheweth the man. The waterie eye in<g ref="char:EOLhyphen"/>deed, is a great signe of Repentance.</p>
+                     <p>The eyes be <hi>fores</hi> and <hi>fenestrae animi,</hi> the doores and windowes of the minde: by which we take view, looke, and prye into the minde, heart, and conscience of man: and by which affections are open and made manifest, how in the minde, or inwardly he stands af<g ref="char:EOLhyphen"/>fected: merrie or sorrie, angrie or pleased, well in his wits or out, foolish or wise, chast or vnchast, drunken or sober, humble or proud, innocent or guiltie, repentant or not; the eye will tell it, the eye will bewray it.</p>
+                     <p>Thus haue we finished, and perfected, ac<g ref="char:EOLhyphen"/>cording to our wish, and intention our pur<g ref="char:EOLhyphen"/>posed discourse of Repentance.</p>
+                  </div>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="42" facs="tcp:178215:27"/>
+               <head>Many sinnes are forgiuen her, for she loued much.</head>
+               <p>THere is yet somewhat more to be spo<g ref="char:EOLhyphen"/>ken of this Text, for there is something that may be taken amisse in the vnderstan<g ref="char:EOLhyphen"/>ding thereof. The coniunction or word in the Greeke translated <gap reason="foreign" extent="1 word">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> in the Latin, <hi>quia,</hi> or <hi>quoniam,</hi> &amp; in English, <hi>because,</hi> or <hi>for,</hi> is in this place <hi>Nota illatiua</hi> not <hi>causalis,</hi> it is not a note causall, but a note illatiue, or a note of infe<g ref="char:EOLhyphen"/>rence, as a sequell, not as a causall▪ for it is not heere, <hi>argumentum a causa,</hi> but <hi>ab effectu:</hi> and that no other sence than this can heereof be gathered, the words themselues, doe ex<g ref="char:EOLhyphen"/>presse. For proofe whereof, obserue how the Parable is propounded, of two debtors, in<g ref="char:EOLhyphen"/>debred to one creditor; one in one thousand, the other in ten thousand: which neither of them being able to pay, the Creditor forgaue them both.</p>
+               <p>The Question from this case is, which of these two, will loue him most? The answere is, The partie to whom he forgaue most.</p>
+               <p>Then the solution of our Sauiour could in effect be no otherwise than this: <hi>I haue for<g ref="char:EOLhyphen"/>giuen her much; therefore she loueth me much.</hi>
+                  <pb n="43" facs="tcp:178215:27"/> So that heere we see, that loue is the sequell of forgiuenesse of sinnes, and forgiuenesse of sinnes no consequent of loue. For, the for<g ref="char:EOLhyphen"/>giuenesse of her sinnes went before, and her loue followed after. It is impossible, with any thing to please God without Faith, <hi>Heb. 11. 6</hi> much lesse with loue without Faith. And yet that which is more, and won<g ref="char:EOLhyphen"/>derfull too, wee can not please God with Faith, without loue, <hi>1. Cor. 13. 2.</hi> and yet for all this, loue cannot justifie vs. The loue of God is the efficient cause of Righteousnesse, which by faith only we apprehend.</p>
+               <p>
+                  <hi>So God loued the World</hi> (and then it fol<g ref="char:EOLhyphen"/>lowes) <hi>that he which beleeueth &amp;c.</hi> Obserue heere, how the Loue of God goeth before; the Faith of man giueth attendance, and the loue of man commeth after. Our loue that pleaseth God, must be the fruit and effect of faith: and this is so acceptable in the persons justified, as that they be of no accompt with<g ref="char:EOLhyphen"/>out it. <hi>Charitas est testimonium iustificantis fi<g ref="char:EOLhyphen"/>dei:</hi> Loue is the true testimonie of justifying Faith.</p>
+               <p>But heere we must speake of Loue with a distinction: For all loue doth not justifie, though there be a loue that doth justifie,
+<pb n="44" facs="tcp:178215:28"/> whereof we reason thus, God doth justifie: But God is loue: <hi>Ergo,</hi> Loue doth justifie, I answere, it is true, if we speake of that loue wherewith God doth loue vs, <hi>dilecti in dilecto:</hi> but it doth not follow, th<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t therefore our loue doth justifie. Hee that loues, fulfilleth the Law: but he that fulfils the Law, shall be ju<g ref="char:EOLhyphen"/>stified: <hi>Ergo,</hi> he that loueth shall be justified. I grant it, if wee loue in that perfection as to fulfill the Law, wee shall be justified by our Loue.</p>
+               <p>But this was the priuiledge of Christ only, who loued in that measure of height, and depth of perfection, that hee fulfilled the whole Law by a voluntarie Sacrifice and free will offering of himselfe for vs: but as for vs▪ by reason of inherent sinne in vs, we can<g ref="char:EOLhyphen"/>not so loue.</p>
+               <p>Now, if h<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ere you will aske this question, why God gaue man such a Law, as he in no wise can performe, fulfill, and keepe; and so seeme by consequent to imply, and con<g ref="char:EOLhyphen"/>clude something thereby. I answere, First, almightie God in giuing man a Law, did re<g ref="char:EOLhyphen"/>spect what man should do, not what he could doe. Secondly, that God in giuing such a Law; made it equall to his owne righteous<g ref="char:EOLhyphen"/>nesse
+<pb n="45" facs="tcp:178215:28"/> not to mans weakenesse. Thirdly, that man before his fall, was so created, made and endowed with such integrity, that he could if he would, haue stood, and fulfilled the law; but after sinne was once committed, he could not.</p>
+               <p>Behold then here, the great mistery of Gods great mercy in the depth of mans great misery. For, he sent his Sonne to take our na<g ref="char:EOLhyphen"/>ture vpon him: who in that nature, hath loued God aboue all, and his neighbour (man kind) as himselfe, and so hath made vp our breach, and thus we see, that the law is fulfiled in vs, though not by vs.</p>
+               <p>So then we conclude, that loue indeed doth iustifie vs, being passiuely vnderstood, <hi>Intelli<g ref="char:EOLhyphen"/>gendo dilectionem, qua nos, a deo diligimur,</hi> mea<g ref="char:EOLhyphen"/>ning, by that loue, wherewith God hath lo<g ref="char:EOLhyphen"/>ued vs: but being actiuely taken, for that loue that is in our selues, that is so lame, weak, and imperfect, in the discharge of our duty, both to God and our neighbour, that the sentence of the law must needs passe against vs, and we stand guilty of eternall death, if the promise of life, and comfort of the Gospell did not re<g ref="char:EOLhyphen"/>uiue, and relieue vs: First by Faith obtayned, secondly, by loue expressed. For as repentance
+<pb n="46" facs="tcp:178215:29"/> is two fould, <hi>viz.</hi> First essentiall, and secondly declaratiue, essentiall wrought by faith: de<g ref="char:EOLhyphen"/>claratiue expressed by loue.</p>
+               <p>So also absolution from sin is two fould. <hi>viz.</hi> First, effectuall obtayned by faith: secondly, demonstratiue, <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>xpressed by the works of loue.</p>
+               <p>First, the effectuall absolution is inward, of the conscience, before God, and this is properly of Faith. And therefore our Saui<g ref="char:EOLhyphen"/>our turnes him to the woman, and assureth her of a release, a discharge, a <hi>quieta est,</hi> saying, <hi>stay thy selfe; thy conscience may be setled, de<g ref="char:EOLhyphen"/>part in peace, thy faith hath made thee whole.</hi>
+               </p>
+               <p>Secondly, the demonstratiue absoluti<g ref="char:EOLhyphen"/>on, and remission from sinne is Publike, and requireth <hi>externa testimonia operum,</hi> to make manifest this conuersion; and therefore our Sauiour turnes him to the Pharisie, re<g ref="char:EOLhyphen"/>hearsing the loue and workes of <hi>Mary,</hi> as se<g ref="char:EOLhyphen"/>quels, and fruits of her faith, namely her wa<g ref="char:EOLhyphen"/>shing, anoynting, wiping and kissing, &amp;c.</p>
+               <p>So also we read of <hi>Zacheus: Halfe my goods I giue to the poore.</hi> Againe in the <hi>Acts</hi> of the Apostles, <hi>They brought their bookes of curious Art and burned them.</hi>
+               </p>
+               <p>And so doth <hi>Mary Magdalen</hi> here, giue testimony of the remission of her sinnes be<g ref="char:EOLhyphen"/>fore
+<pb n="47" facs="tcp:178215:29"/> God by faith, before the world by loue. The remission of sinne is such a thing, as with<g ref="char:EOLhyphen"/>out it <hi>none can be saued,</hi> and once hauing ob<g ref="char:EOLhyphen"/>teined it, none such can perish.</p>
+               <p>There was a Temple in Athens, which was called the Temple of <hi>Mercy,</hi> but they say, it is now translated to <hi>Rome,</hi> there onely is the propiciatory or mercy seate, that is now the onely place.</p>
+               <p>So that we are here set to schoole to learne to read, what <hi>S. P. Q. R.</hi> doth signifie: It was wont to be translated, <hi>Senatus Populus{que} Ro<g ref="char:EOLhyphen"/>manus:</hi> The Senate and people of Rome.</p>
+               <p>But now it meaneth some other thing, and I take it thus, <hi>Stultus Populus Quaerit Romam.</hi> A foolish people trudge to Rome. And wherefore? For mercy. And wherein? to ob<g ref="char:EOLhyphen"/>taine <hi>Remission of sinnes.</hi> Where as, First they them selues know, that none can forgiue sins, but God onely.</p>
+               <p>Secondly, we our selues know, that mercy in forgiuenesse of sins, is not purchased with <hi>Indian gould.</hi>
+               </p>
+               <p>Thirdly, and al lthe world beside doth know, that there is no mercy to be had at Rome, without mony, No mony, no mercy, no peny, no <hi>Pater noster: Si nihil attuleris,</hi> If
+<pb n="48" facs="tcp:178215:30"/> you be empty fisted, farewell and adeiu.</p>
+               <p>And therefore I still confidently conclude as before, <hi>Stultus Populus Quaerit Romam.</hi>
+               </p>
+               <p>A fit <hi>motto</hi> for such vaine heads. There is the same reason, for remission of sinnes, as for the forgiuing of a debt; who hath I pray you, any title or interest in the debtor, but the cre<g ref="char:EOLhyphen"/>ditor, he only is to demand, and to discharge.</p>
+               <p>We offend almighty God two waies, <hi>viz.</hi>
+               </p>
+               <p>First immediatly by our breach of the com<g ref="char:EOLhyphen"/>mandements of the first table.</p>
+               <p>Secondly, mediatly by our breach of the commandements of the second table.</p>
+               <p>And hee takes the transgression of the se<g ref="char:EOLhyphen"/>cond table, for <hi>Crimen lesae Maiestatis,</hi> as an hie offence because done against his comman<g ref="char:EOLhyphen"/>dements, and so we stand indebted vnto him: and in him, as in the Creditor, it wholy lyeth to forgiue.</p>
+               <p>But here we must knowe, that power to re<g ref="char:EOLhyphen"/>mit sinne is three fould. <hi>viz.</hi>
+               </p>
+               <p>First <hi>Authoritatis,</hi> absOlutely of God.</p>
+               <p>Secondly, <hi>Min<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>sterii,</hi> being delegated to the ministers by assignement from God.</p>
+               <p>Thirdly, <hi>Priuati cuius{que} iuris,</hi> common and belonging to euery one that is iniured: for they haue a power to forgiue, yea they haue a
+<pb n="49" facs="tcp:178215:30"/> duty to forgiue by coōmandement from God.</p>
+               <p>The first of these is acknowledged, with<g ref="char:EOLhyphen"/>out all contradiction, for wee must haue re<g ref="char:EOLhyphen"/>course to God, both for our faults and punish<g ref="char:EOLhyphen"/>ments: for he is the party offended, and hee onely hath power to forgiue by absolute au<g ref="char:EOLhyphen"/>thority. <hi>Psal. 51. Against thee onely haue. &amp;c.</hi>
+               </p>
+               <p>What Angell in Heauen, what man on earth or Diuell in Hell, dares giue to any other this part of his right? The reason: for hee that must forgiue the sinnes of man, and cleare the conscience of the offender, must be such a one as seeth and beholdeth the heart, and secret thoughts: and such a one is God only.</p>
+               <p>
+                  <hi>Of the Second.</hi>
+               </p>
+               <p>Wherin ye must vnderstand, that the pri<g ref="char:EOLhyphen"/>uildge of the Church, wherewith God hath graced, and endowed it, is the forgiuenes of sinnes, the chiefe treasure thereof: which au<g ref="char:EOLhyphen"/>thority is assigned to the Ministers of the Church, namely to forgiue sinnes, by reason of their Ministry, in preaching and pronoun<g ref="char:EOLhyphen"/>cing of the forgiuenesse of sinnes, to them which beleeue, and repent: but indeed to be freed from the guiltinesse of sinne, is not in their power, but rests in the onely, proper, and absolute power of God.</p>
+               <pb n="50" facs="tcp:178215:31"/>
+               <p>The Keyes of the Kingdome of Heauen bee a chrage from God to preach forgiuene<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of sinnes, and so to open the gate of eterna<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> life to the people.</p>
+               <p>To binde and to loose is the effect of prea<g ref="char:EOLhyphen"/>ching, which to them that beleeue turnes to their saluation, a suor of life; but to the vn<g ref="char:EOLhyphen"/>beleeuers, to their condemnation, a sauor o<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> death.</p>
+               <p>The Apostles were appointed instrument to preach this: <hi>Mercy</hi> and <hi>Iudgement, Mer<g ref="char:EOLhyphen"/>cy</hi> to the repentant, <hi>Iudgement</hi> to the impe<g ref="char:EOLhyphen"/>nitent.</p>
+               <p>Where the word is preached, if Repen<g ref="char:EOLhyphen"/>tance follow, then remission of sinnes must needs follow also.</p>
+               <p>In remission of sinnes Repentance is ioyned with Faith, not that by the worthines of Re<g ref="char:EOLhyphen"/>pentance remission is obtained, but by the merit of Christ, which by Faith onely is ap<g ref="char:EOLhyphen"/>prehended.</p>
+               <p>The keyes notwithstanding did hee com<g ref="char:EOLhyphen"/>mend to his Apostles, whereby they either open or shut the Kingdome of Heauen.</p>
+               <p>Which Keyes or Key rather, is as <hi>Chriso<g ref="char:EOLhyphen"/>stome</hi> saith <hi>Scientia Scripturarum,</hi> the right knowledg of the Scripture, as <hi>Tertullian</hi> saith,
+<pb n="51" facs="tcp:178215:31"/>
+                  <hi>Interpretatio legis,</hi> the true interpretation of the Law: as <hi>Eusebius</hi> saith, <hi>Ʋerbum Dei,</hi> that this Key is no other then the word of God.</p>
+               <p>The word of God indeed is the right key, whereby as S. <hi>Ambrose</hi> saith, <hi>Remittuntur peccata,</hi> sinnes indeed are forgiuen: Which word of God, according to the diuers pro<g ref="char:EOLhyphen"/>perties and effects thereof hath diuers names and titles in the Scripture. <hi>viz.</hi>
+               </p>
+               <p n="1">1. In that it multiplyeth and increaseth it is called Seed. <hi>Math. 13.</hi>
+               </p>
+               <p n="2">2. In that it cutteth and deuideth the heart and thoughts, it is called a Sword. <hi>Heb. 4.</hi>
+               </p>
+               <p n="3">3. In that it taketh and incloseth vs, it is called a Net. <hi>Math. 13.</hi>
+               </p>
+               <p n="4">4. In that it washeth, or clenseth, it is called Water. <hi>Heb. 10. 22.</hi>
+               </p>
+               <p n="5">5. In that it heateth and inflameth, it is called Fire. <hi>Mat. 3. 11.</hi>
+               </p>
+               <p n="6">6. In that it nourisheth and feedeth, it is called Bread. <hi>Math. 15.</hi>
+               </p>
+               <p n="7">7. In that it openeth or giueth entrance in<g ref="char:EOLhyphen"/>to the house it is called a Key. <hi>Mat. 16.</hi>
+               </p>
+               <p>In which Metaphor of a Key, we are to ob<g ref="char:EOLhyphen"/>serue these perticulers. <hi>viz.</hi>
+               </p>
+               <p n="1">1. That the house is the Kingdome of Hea<g ref="char:EOLhyphen"/>uen. <hi>Ioh. 14.</hi>
+               </p>
+               <p n="2">
+                  <pb n="52" facs="tcp:178215:32"/>2. That the doore of this house is the Lor<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Iesus. <hi>Ioh. 10.</hi>
+               </p>
+               <p n="3">3. That the Word is the Key that open<g ref="char:EOLhyphen"/>eth, interpreteth, and expresseth this doore <hi>Math. 16.</hi>
+               </p>
+               <p n="4">4. That the interpreter and expounder this word is the Priest. <hi>Mal. 2.</hi>
+               </p>
+               <p>So that Christ giues the vse of this Key to the Ministers of the Gospell: but the Prero<g ref="char:EOLhyphen"/>gatiue Royall, and the possession thereof hee keepeth to himselfe, and he properly, truely, and onely openeth, and no man shutteth, and shtteth and no man openeth. <hi>Apoc. 3. 7▪</hi> And this authority which he giueth to them is to discouer sinnes, and vpon Repentance in his name to forgiue sinnes.</p>
+               <p>Take a figure hereof out of the old Law, the Leuiticall Priest did not make a Leper nor being one did clense him: hee did only declare, and determine, that if the party were infected, he should then be secluded the con<g ref="char:EOLhyphen"/>gregation; and being once clensed, he should pronounce him fit to bee receiued in a<g ref="char:EOLhyphen"/>gaine; the same authority is also all one with vs.</p>
+               <p>There is great fault found with our Booke of Common prayer in this respect.</p>
+               <pb n="53" facs="tcp:178215:32"/>
+               <p>It is the obiect and subiect of many idle dis<g ref="char:EOLhyphen"/>courses, amongst many idle and shallow braines, who ignorantly, falsly, and malici<g ref="char:EOLhyphen"/>ously affirme, that the Leaper, the sicke, the sinner, is assoyled, absolued, and pardoned, by the Priest, the Minister, the Preacher.</p>
+               <p>Now what (I pray you consider) is there in this whole action, which is not to be tollera<g ref="char:EOLhyphen"/>ted by equall and reasonable men, if they were not beyond measure giuen to con<g ref="char:EOLhyphen"/>tention.</p>
+               <p>If the Minister be sent for, it is his part to come, looke vpon the title <hi>De consolandis ae<g ref="char:EOLhyphen"/>gro<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ātibus</hi>) yet for the most part we know that as he is the last sent for, so is hee the least wel<g ref="char:EOLhyphen"/>come.</p>
+               <p>Well, we come to the sick mans house, to his chamber, to his bed, to his sick heart, where wee finde three readie attending on him: <hi>viz.</hi>
+               </p>
+               <list>
+                  <item>1. The Deuill, for his soule.</item>
+                  <item>2. The Wormes for his bodie.</item>
+                  <item>3. The Executors for his goods.</item>
+               </list>
+               <p>Well let them search his Cofers, for wee must sound his Conscience, &amp; see what coyne and treasure is there. If we see a tryall of his faith, and an assurance of his hope, a taste
+<pb n="54" facs="tcp:178215:33"/> of his Repentance, and an Argument of his loue, oh let vs say so much, if we see so much, and out of Gods word to fetch a warant, and comfort to assure this sicke man, of the mer<g ref="char:EOLhyphen"/>cies of God, and remision of his sinnes by Christ.</p>
+               <p>I will make the case, or resemblance hereof.</p>
+               <p>A Malefactor that hath transgressed the Law, and is arraigned, condemned, and to be executed, if a pardon bee procured, and brought by some one therevnto assigned: I pray you tel men, who doth forgiue this offen<g ref="char:EOLhyphen"/>der, the Prince or the messenger?</p>
+               <p>We are but Messengers, we doe but bring the pardon from the Prince, The King of Kings, and we haue warrant out of the word for our so doing: yet with this prouiso: <hi>viz.</hi> so that it be done.</p>
+               <list>
+                  <item>1. In the feare of God.</item>
+                  <item>2. In his name.</item>
+                  <item>3. Vpon good grounds.</item>
+                  <item>4. With assured euidence of the sicke mans sincerity.</item>
+                  <item>5. Without presumption in our selues.</item>
+                  <item>6. Or partiall respect to the party.</item>
+               </list>
+               <p>And this remission of sinnes, is necessary
+<pb n="55" facs="tcp:178215:33"/> to bee looked vnto of vs all, namely, by what meanes we are saued, and freed from the same. For, this is our case, we are all indi<g ref="char:EOLhyphen"/>ted, and must appeare to the action, and that in our owne person, not by Attorney.</p>
+               <p>We are all summoned; the writ is alreadie come forth, and cannot be retourned with <hi>non est inuentus,</hi> we must be at a minutes war<g ref="char:EOLhyphen"/>ning, vnder the great <hi>sub poena,</hi> of the forfei<g ref="char:EOLhyphen"/>ture of bodie and soule. The action is of high-Treason against the King of Heauen, for that most rebelliously, disloyally, and trayterously we haue forsaken him our onely King, to serue a forraine Prince, his enemie; and this case, is not to be heard in Westmin<g ref="char:EOLhyphen"/>ster Hall, before the Lord chiefe Iustice: but it must be heard aboue, in the high Court of the Starre-Chamber, before the assembly of the glorious Angels, before the Lord chiefe Iustice of the whole earth, and before the Lord high Chauncellor of the whole world. We must appeare to the action, we must stand to the answere, and abide the award. From which there is no appeale.</p>
+               <p>Our accuser is the Deuill, what is the cause? The breach of Gods Law, heere is no counterfeit deeds, nor forged euidences, our
+<pb n="56" facs="tcp:178215:34"/> consciences are the witnesses, therefore we must now looke to our selues, and seeke for as good stuffe to answere the matter withall for our discharge, as is brought against vs for our accusation, or else there is no reme<g ref="char:EOLhyphen"/>die we perish. The profe is too true, which is brought against vs, wee are indebted to al<g ref="char:EOLhyphen"/>mightie God, satisfaction must be made, to the vttermost farthing, or else there is no re<g ref="char:EOLhyphen"/>medie, we perish. Iustice must proceed, the law wil haue hir course; oh poore soules, now let vs looke what to answere, and that suffi<g ref="char:EOLhyphen"/>ciently, or else, there no remedie, we perish.</p>
+               <p>Well deare Christians, comfort your hearts, and with chearefull confidence answere thus.</p>
+               <p>Christ and his Church, is as man and his wife all one, he is the husband, and we the wife, he hath taken our nature vpon him, and by it, and with it, he doth communicate his owne person to vs, he is become flesh of our flesh, and bone of our bones substantially, and wee are become flesh of his flesh and bone of his bones spiritually. So that what we haue appertaineth to him, as our infirmi<g ref="char:EOLhyphen"/>ties, and sinnes, and what hee hath doth belong to vs, as his Righteousnesse, and glorie.</p>
+               <pb n="57" facs="tcp:178215:34"/>
+               <p>Now, if the Deuill should call vs to an<g ref="char:EOLhyphen"/>swere for our debts, we may from these pre<g ref="char:EOLhyphen"/>mises safely reply, that the wife is no suea<g ref="char:EOLhyphen"/>ble person, so long as her husband liueth; but our husband Iesus Christ is aliue, and liueth for euermore, let him therefore sue him if hee will, if he dare, and he will answere him to the extent of Law; but as for vs, wee are vnder the couer-barne of his pro<g ref="char:EOLhyphen"/>tection.</p>
+               <p>Or else, we may answere thus.</p>
+               <p>That is wee our selues, were lyable to pay our owne debts (as in true construction in our selues we are) yet, if we in beholding of our own insufficiencie, &amp; being therby infor<g ref="char:EOLhyphen"/>ced to pleade for mercie, if heerein vpon our piteous &amp; humble moane, some louing friend, taking compassion on vs, should vndertake the answere, and either compound, or dis<g ref="char:EOLhyphen"/>charge our debt, we then assuredly know, that a debt once discharged, is neuer more to be demanded, and so we gratiously stand freed, in the great and fearefull day of accompt. And such a mercifull and louing friend wee haue, euen Iesus Christ the righteous, who by joyning of two natures in one; God and man: As man, he hath sustained the punishment due for sinne; and as God, hath conquered and
+<pb n="58" facs="tcp:178215:35"/> ouercome for vs, giuing vs discharge and re<g ref="char:EOLhyphen"/>lease thereby.</p>
+               <p>
+                  <table>
+                     <row>
+                        <cell>Oh the depth of Gods wisedome in</cell>
+                        <cell>
+                           <hi>Mercy</hi> and <hi>Iudgement,</hi>
+                        </cell>
+                        <cell>thus joyned together.</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>Mercy, in forgiuing of sinne.</p>
+               <p>Iudgement, in the punishment of sinne.</p>
+               <p>Mercy, in pardoning the elect in his Sonne.</p>
+               <p>Iudgement, in scourging sinne with a curse.</p>
+               <p>Mercy, in that punishing our sinnes, yet he doth it not in our selues (who were not able to beare it) but in his Sonne, who is both wil<g ref="char:EOLhyphen"/>ling and able to sustaine it.</p>
+               <p>Or to conclude, we may further answere thus: Faith is the hand &amp; instrument where<g ref="char:EOLhyphen"/>by we are assured, of the remission of sinne and consequently of eternall Saluation: and that the Lord will race our sinnes out of the booke of accompt, so that they shall be for<g ref="char:EOLhyphen"/>gotten, and forgiuen, neuer more to be re<g ref="char:EOLhyphen"/>membred, to be imputed, <hi>ne nominari quidem,</hi> not so much as to be once mentioned, and therefore they are called <hi>peccata tecta,</hi> sinnes hidden, sinnes couered, <hi>Psa. 32. 1.</hi>
+               </p>
+               <p>And this faith assureth vs, that he is</p>
+               <p>The good samaritane, who hath wine and oyle for our deadly wounds.</p>
+               <p>The carefull sHeepheard, that diligently seeketh vp the lost sheepe.</p>
+               <pb n="59" facs="tcp:178215:35"/>
+               <p>The pitifull creditor, who forgaue vs ten thousand tallents.</p>
+               <p>The louing Father, who at all times is rea<g ref="char:EOLhyphen"/>die to receiue the Prodigall sonne.</p>
+               <p>The true Serpen<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, a present helpe for all those that looke vpon him by faith, being stung to death by sinne.</p>
+               <p>
+                  <hi>The Lambe of God, that taketh away the sinnes of the World, Ioh. 1.</hi>
+               </p>
+               <p>So that the close of the whole point of re<g ref="char:EOLhyphen"/>mission of sinnes, is this; We must know, that there is no satisfaction, <hi>praeter meritum Christi,</hi> and therefore, whatsoeuer we doe, in way to obtaine remission of sinnes; we must doe it, as <hi>Mary</hi> heere, and as all the godly else do, <hi>per modum obedientiae, non per modum satisfactio<g ref="char:EOLhyphen"/>nis,</hi> as we haue said.</p>
+               <p>Let me I pray you, adde heereunto one ex<g ref="char:EOLhyphen"/>trauagant Obseruance more, so I will make an end, <hi>viz.</hi>
+               </p>
+               <p>When the commandement came, sinne re<g ref="char:EOLhyphen"/>uiued, when the spirit of God once re<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ealeth to vs the true sence and meaning of the Law; and hath taught vs to compare our actions therewith; then sinne rouzeth it selfe and re<g ref="char:EOLhyphen"/>uiueth, yea that sinne that lay hid before in securitie, and as it were couched in his fur<g ref="char:EOLhyphen"/>row, doth now appeare. This reuiuing of sin,
+<pb n="60" facs="tcp:178215:36"/> vringeth a shame with it, the shame of si<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> bringeth sorrow for it, and the sorrow for i<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> doth afford amendment of life with it. An<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> yet though this practise be neuer so profita<g ref="char:EOLhyphen"/>ble, be neuer so comfortable, yet we finde i<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> true by woful experience, that we can least o<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> al endure to see our sinne, to know it, or to b<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> reproued for it. To be sorrie for our sins, is a<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> enterance to repentance, to raise vp our selue<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> by faith to remission is the consummation.</p>
+               <p>By sorrow to acknowledge thy sinne, to accuse thy selfe, to detest the one, and to con<g ref="char:EOLhyphen"/>demne the other, is an ingredient: by Faith to aspire, and to attaine to grace, is the con<g ref="char:EOLhyphen"/>fection. But when Christ is laid hold on by faith in Repentance, whereby sinnes are re<g ref="char:EOLhyphen"/>leased and the Holy-Ghost giuen, that is the perfection.</p>
+               <p>And in whomsoeuer the Holy<g ref="char:EOLhyphen"/>ghost doth thus gratiously reside, the outward workes which flow from such a Repentance (as his liuely and gratious effects) doe seale it before men, testifie it in our selues, and approue it before God, that we are his Children. For which rich mercy, and vnutterable grace, we ascribe as duly doth belong to this ternall, eternall maiestie, all honor and glorie, now and for euermore.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:178215:36"/>
+         </div>
+      </body>
+   </text>
+</TEI>
